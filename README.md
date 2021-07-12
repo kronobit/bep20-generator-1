@@ -8,7 +8,7 @@ The new Smart Contract Generator for BEP20 Token.
 
 ## Try it
 
-[https://hikecoder.github.io/bep20-generator](https://hikecoder.github.io/bep20-generator)
+[https://kronobit.github.io/bep20-generator](https://kronobit.github.io/bep20-generator)
 
 
 ## Development
